@@ -99,11 +99,11 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
+    
 # Site Author
 author:
   name             : "Kim Hojoong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/github.images/Docker.png"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I love Docker."
   location         : "Korea Seoul"
   email            : "hojoong00@gmail.com"

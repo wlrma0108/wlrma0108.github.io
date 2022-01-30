@@ -1,6 +1,6 @@
 ---
-title: "첫 블로그 포스팅"
-excerpt: "블로그 포스팅을 시작했습니다."
+title: "GDSC LEAD"
+excerpt: "."
 toc: true
 toc_sticky: true
 categories:

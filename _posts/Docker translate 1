@@ -1,0 +1,28 @@
+---
+title: "translate in korean"
+excerpt: "Docker"
+toc: true
+toc_sticky: true
+categories:
+  - Blog
+tags:
+  - English
+  - Docker
+  - project 
+---
+## Docker Engine
+<br> 도커 엔진은 어플리케이션을 쌓아올리고 컨테이너화 하기위한 오픈소스 컨테이너 기술이다. 도커 엔진은 클라이언트 서버 어플리케이션 처럼 작동한다. 
+<br> APIS는 도커데몬에게 특정한 지시하고 대화 할 수 있는 프로그램이다.
+<br> command line client docker
+<br> CLI는 도커 API를 컨트롤하고 상호작용할때 사용되며 도커데몬에서는 Scripting 혹은 CLI 커멘드를 통해사용한다. 많은 도커 어플리케이션이 사용하는 기본적인 API와 CLI이다. 데몬은 이미지, 컨테이너, 볼륨, 네트워크와 같이 도커 오브젝트를 만들고 관리한다.
+<br> 도커 아키텍쳐에 대해 조금더 자세히 살펴보자
+## Docker user guide
+<br> 도커를 더 배우고 싶거나 도커 사용과 시행 질문에 대한 답이 필요할때 맥락페이지인 Get started를 확인해보세요 
+## Feature Deprecation Policy
+<br> 변화는 시간이 지나감에 따라 도커의 특징은 제거되고 대체될 것입니다. 기존의 특징이 제거되기 전에 그것은 3개의 안정적인 릴리스 특정한 명백한 경우없가 없음을 위해(도대체 어떻게 번역해야할까?) "더이상 사용되지 않는"으로 라벨되며 기록과 남아 있을 것이다.  도커 시간이 지나고 그것은 사라질 것이다. 
+<br> 사용자는 기록하기를 예측한다 리스트 쓸모없는 특징에대한 풀림과 계획을 그들의 이주는 특징으로부터 떨어졌고 가능성있는 새로운 특징으로 대체되었다. 
+<br> 더이상 사용하지 않는 특징은 더이상 사용하지 않는 특징 페이지에서 찾을 수 있다. 
+<br>Licensing
+<br>Docker is licensed under the Apache License, Version 2.0. See LICENSE for the full license text.
+<br>https://docs.docker.com/engine/
+
